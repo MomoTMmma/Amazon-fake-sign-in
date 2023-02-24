@@ -1,0 +1,6 @@
+.footer-links a:not(:last-of-type){
+    margin-right: 20px
+}
+.footer-text{
+    text-align: center;
+}
